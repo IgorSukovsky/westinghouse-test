@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/westinghouse-test/static/css/main.bb58d5ff.css",
+    "main.js": "/westinghouse-test/static/js/main.3c4b489a.js",
+    "index.html": "/westinghouse-test/index.html",
+    "main.bb58d5ff.css.map": "/westinghouse-test/static/css/main.bb58d5ff.css.map",
+    "main.3c4b489a.js.map": "/westinghouse-test/static/js/main.3c4b489a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb58d5ff.css",
+    "static/js/main.3c4b489a.js"
+  ]
+}
