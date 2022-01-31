@@ -1,0 +1,22 @@
+.title {
+  display: flex;
+  list-style-type: none;
+  margin-top: 80px;
+  font-size: 50px;
+  padding: 0;
+  flex-direction: row;
+  justify-content: center;
+}
+.flexCenter {
+  text-decoration: none;
+  background-image: linear-gradient(currentColor, currentColor);
+  background-position: 0% 100%;
+  background-repeat: no-repeat;
+  background-size: 0% 2px;
+  transition: background-size 0.3s;
+  margin-left: 20px;
+}
+
+.flexCenter:hover {
+  background-size: 100% 2px;
+}
